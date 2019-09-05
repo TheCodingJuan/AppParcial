@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppParcial</string>
+    <string name="hintEditTxt">0-100</string>
+</resources>
